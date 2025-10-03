@@ -1,0 +1,6 @@
+"Reference","Value","Footprint","Datasheet","數量"
+"D1-D32","LED_Small","LED_SMD:LED_0805_2012Metric","~","32"
+"J1","Conn_01x02","Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical","~","1"
+"Q1","PPJA3439-AU","Package_TO_SOT_SMD:SOT-23","https://www.mouser.tw/datasheet/2/1057/PJA3439-AU-1867221.pdf","1"
+"R1-R6","220 Ohm","Resistor_SMD:R_0805_2012Metric","~","6"
+"R7","520 Ohm","Resistor_SMD:R_0805_2012Metric","~","1"
